@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d6bcfcd0-a1af-4d00-a47c-405f24a6ea0b)
+
+
 # Microsoft GraphRAG:
 - Works using Python 3.10
 - GraphRah Version = 2.3.0
